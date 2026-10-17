@@ -1,0 +1,3 @@
+# git
+
+Initialized via WorkBuddy.
